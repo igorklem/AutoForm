@@ -1,0 +1,7 @@
+pymsgbox
+selenium
+pypiwin32
+pywin32
+subprocess
+pywintypes
+pyinstaller
